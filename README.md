@@ -20,10 +20,6 @@ Sistema de classificação de imagens celulares em tempo real, voltado para auxi
 - Fundamentação teórica em Word, formatada em ABNT
 - Apresentação completa em PPTX com identidade visual do IFPR
 - Diagramas UML (classes, casos de uso, arquitetura) em SVG
-- Plano de negócios com projeções financeiras de 3 anos:
-  - **TIR:** 314,8%
-  - **Payback:** mês 14
-  - Desenvolvido para a disciplina de Gestão Empresarial (Profa. Livia Maria dos Santos Perazolo)
 
 ## Status
 
